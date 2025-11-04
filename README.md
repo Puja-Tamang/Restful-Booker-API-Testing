@@ -1,2 +1,4 @@
-# Restful-Booker-API-Testing
-API Testing Excel sheet for Restful-Booker
+Restful-Booker API Testing
+Comprehensive API testing project for Restful-Booker, including Excel test cases and Postman collection for CRUD operations on bookings.
+
+
